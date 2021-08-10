@@ -1,3 +1,10 @@
+"""
+@Author: Swapnil Bhoyar
+@Date: 2021-08-09
+@Last Modified by: Swapnil Bhoyar
+@Last Modified time: 2021-08-09
+@Title : Fetching real time stock data using kafka.
+"""
 from kafka import KafkaConsumer
 import json
 import pydoop.hdfs as hdfs
